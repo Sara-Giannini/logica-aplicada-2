@@ -1,6 +1,6 @@
-# Lógica Aplicada
+# Lógica Aplicada 2
 
-### Atividade da semana 3 do curso de Backend resoluções de exercícios utilizando Javascript.
+### Atividade da semana 4 do curso de Backend utilizando Javascript.
 ### Relatório sobre a resolução, aprendizados e dificuldades.
     Fico feliz de não ter tido grandes dificuldades apesar
     de não ter certeza se fiz tudo da maneira certa. 
