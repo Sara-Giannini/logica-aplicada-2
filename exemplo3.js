@@ -10,3 +10,15 @@ function tabuada(n){
     }
 }
 console.log(tabuada(7))
+
+7 x 7= 7
+7 x 7= 14
+7 x 7= 21
+7 x 7= 28
+7 x 7= 35
+7 x 7= 42
+7 x 7= 49
+7 x 7= 56
+7 x 7= 63
+7 x 7= 70
+undefined
