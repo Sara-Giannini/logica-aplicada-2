@@ -9,5 +9,6 @@ function fatorial(n){
         num = num * i
     } return `${n}! = ${n} * ${n-1} * ${n-2} = ${num}`
 }
-console.log(fatorial(3))
+console.log(fatorial(3))  
 
+3! = 3 * 2 * 1 = 6
