@@ -12,3 +12,13 @@ if(dezEmDez === 60 || dezEmDez === 90){
 }
 console.log(dezEmDez)
 }
+
+20
+30
+40
+50
+CONTINUE
+70
+80
+CONTINUE
+100
